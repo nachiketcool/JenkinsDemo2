@@ -8,8 +8,6 @@ public class SampleTest extends BaseClass {
 	public void testCase1() {
 
 		System.out.println("This is testCase1");
-		System.out.println("This is New Comment");
-		System.out.println("This is New Comment2");
 
 	}
 	@Test
